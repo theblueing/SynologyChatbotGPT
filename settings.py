@@ -9,7 +9,7 @@ OUTGOING_WEBHOOK_TOKEN = "nXlhHPeNiKX7ew11dyW0Sr87jv0CDbNy6TsYmTXbkA16lm3N96uxyv
 
 
 # Your server IP address where you run this bot (more explicitly, the ip of the server where you put this script)
-your_server_ip = 'http://2024.myds.me'
+your_server_ip = '3.101.53.66'
 
 
 # Port
