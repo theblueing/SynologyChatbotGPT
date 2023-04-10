@@ -1,15 +1,15 @@
 
 # Replace with your OpenAI API key
-openai_api_key = "your_openai_api_key"
+openai_api_key = "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"
 
 
 # Replace with your Synology Chat bot details
-INCOMING_WEBHOOK_URL = "your_INCOMING_WEBHOOK_URL"
-OUTGOING_WEBHOOK_TOKEN = "your_OUTGOING_WEBHOOK_TOKEN"
+INCOMING_WEBHOOK_URL = "http://2024.myds.me:5001/webapi/entry.cgi?api=SYNO.Chat.External&method=chatbot&version=2&token=%22nXlhHPeNiKX7ew11dyW0Sr87jv0CDbNy6TsYmTXbkA16lm3N96uxyv2a0GLdO428%22"
+OUTGOING_WEBHOOK_TOKEN = "nXlhHPeNiKX7ew11dyW0Sr87jv0CDbNy6TsYmTXbkA16lm3N96uxyv2a0GLdO428"
 
 
 # Your server IP address where you run this bot (more explicitly, the ip of the server where you put this script)
-your_server_ip = 'your_server_ip'
+your_server_ip = 'http://2024.myds.me'
 
 
 # Port
